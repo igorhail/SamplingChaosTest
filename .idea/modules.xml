@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hail.iml" filepath="$PROJECT_DIR$/.idea/hail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hail.iml" filepath="$PROJECT_DIR$/hail.iml" />
     </modules>
   </component>
 </project>
